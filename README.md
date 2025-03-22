@@ -4,16 +4,10 @@
 <h2> Abaut Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 Estudiante de Ingenieria de Sistemas en la Universidad CESMAG
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🔭 Aprendiz de programacion de software en SENA
   
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
-
   <!-- RAINBOW LINE TOP -->
 ## 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Tecnologias+Aprendidas" alt="Typing SVG" /></a>
