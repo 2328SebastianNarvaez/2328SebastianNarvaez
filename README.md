@@ -76,7 +76,6 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
   <a href="https://nodejs.org/en" target="_blank">
 <img height=65px src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/71302-express.js-chrome-javascript-system-node.js-v8-runtime_1687631713.png"> 
 </td>
