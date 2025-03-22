@@ -2,7 +2,10 @@
 <!-- Your title -->
 
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Mi+Información+Personal" alt="Typing SVG" /></a><bd>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Mi+Información+Personal" alt="Typing SVG" /></a>
+  
+  ##  ______________;
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Estudiante+de+Ingenieria+de+Sistemas" alt="Typing SVG" /></a>
   
   <!-- RAINBOW LINE TOP -->
