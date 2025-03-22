@@ -1,8 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- Your title -->
 
-## Hello,!
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Sobre+Mi+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
   <!-- RAINBOW LINE TOP -->
 
 
