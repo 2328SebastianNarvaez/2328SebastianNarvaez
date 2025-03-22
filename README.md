@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- Your title -->
 
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Sobre+Mi+Estudiante+de+ingenieria+de+sistemas+Estudiante+de+programacion+de+software+Ciudad+de+pasto+Conocimientos+solidos" alt="Typing SVG" /></a>
   <!-- RAINBOW LINE TOP -->
 
